@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Joshita-TodoApp/static/css/main.6db76caf.css",
+    "main.js": "/Joshita-TodoApp/static/js/main.370c0975.js",
+    "index.html": "/Joshita-TodoApp/index.html",
+    "main.6db76caf.css.map": "/Joshita-TodoApp/static/css/main.6db76caf.css.map",
+    "main.370c0975.js.map": "/Joshita-TodoApp/static/js/main.370c0975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db76caf.css",
+    "static/js/main.370c0975.js"
+  ]
+}
